@@ -18,6 +18,7 @@ To run the notebook, you need to have Python installed along with the following 
 * matplotlib
 * seaborn
 * scikit-learn
+  
 You can install these libraries using pip:
 ![image](https://github.com/Ashar18/Car-Price-Prediction/assets/64865488/0617c80b-ac10-4a74-a541-17be0eedfc89)
 
@@ -32,7 +33,9 @@ You can install these libraries using pip:
 Various plots are generated to understand the distribution and relationships of the data:
 
 * **Price distribution and spread**: Distribution plot and box plot of car prices.
+  
 * **Histograms**: Frequency distribution of different categorical features like CompanyName, fueltype, carbody, etc.
+  
 * **Box plots**: Relationship between categorical features and car prices.
 
 ## Feature Engineering
