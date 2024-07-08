@@ -20,6 +20,7 @@ To run the notebook, you need to have Python installed along with the following 
 * scikit-learn
   
 You can install these libraries using pip:
+
 ![image](https://github.com/Ashar18/Car-Price-Prediction/assets/64865488/0617c80b-ac10-4a74-a541-17be0eedfc89)
 
 ## Data Preprocessing
